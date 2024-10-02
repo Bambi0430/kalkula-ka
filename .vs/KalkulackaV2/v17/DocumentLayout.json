@@ -1,0 +1,51 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\HP\\OneDrive\\Plocha\\INFO\\PRV\u00C1K\\2 semestr\\Programko\\Muj projekt\\KalkulackaV2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DDFA0919-5938-4683-B46B-C96B49C37119}|KalkulackaV2\\KalkulackaV2.csproj|c:\\users\\hp\\onedrive\\plocha\\info\\prv\u00E1k\\2 semestr\\programko\\muj projekt\\kalkulackav2\\kalkulackav2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DDFA0919-5938-4683-B46B-C96B49C37119}|KalkulackaV2\\KalkulackaV2.csproj|solutionrelative:kalkulackav2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 278,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\OneDrive\\Plocha\\INFO\\PRV\u00C1K\\2 semestr\\Programko\\Muj projekt\\KalkulackaV2\\KalkulackaV2\\Program.cs",
+              "RelativeDocumentMoniker": "KalkulackaV2\\Program.cs",
+              "ToolTip": "C:\\Users\\HP\\OneDrive\\Plocha\\INFO\\PRV\u00C1K\\2 semestr\\Programko\\Muj projekt\\KalkulackaV2\\KalkulackaV2\\Program.cs*",
+              "RelativeToolTip": "KalkulackaV2\\Program.cs*",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-26T12:43:46.773Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 26,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
