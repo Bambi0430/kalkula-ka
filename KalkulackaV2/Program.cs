@@ -15,7 +15,7 @@ class Program //vytvoreni hlavni tridy
         int MenuCounter = 0; //deklarace a inicializace promene
         int menuPhase = 0; //deklarace a inicializace promene
 
-        while (run) //cyklus while pokud kondice vyhodi True blabla 
+        while (run) //cyklus while pokud kondice vyhodi True 
         {
             if (menuPhase == 0) //podminka 
                 DrawMainMenu(menu, ref pocetDesMist, ref MenuCounter); //volani metody (ref. je odkaz na pametove misto respektive na "puvodni promenou")
